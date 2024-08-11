@@ -24,5 +24,5 @@ When creating we need to be careful not to fall into the trap of creating someth
 
 If I had **two more hours** each day I would split these hours into two blocks:
 
-1. **Learning** more by reading books, articles, and taking courses
-2. **Innovation** of something new and unique based on what I have learned
+1. One hour **learning** more, by reading books, articles, and taking courses
+2. One hour **innovation** inspired by what I learn
